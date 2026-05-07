@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-label="Plant Cell Diagram">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.22"/></filter>
+    <radialGradient id="glow" cx="35%" cy="25%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.85"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="560" rx="32" fill="#f0fdf4"/>
+  <text x="40" y="58" font-size="34" font-weight="800" fill="#0f172a" font-family="Arial">Plant Cell Diagram</text>
+  <text x="42" y="90" font-size="18" fill="#334155" font-family="Arial">Reference photo/diagram for the Plant Cell class</text>
+  
+  <rect x="220" y="120" width="430" height="330" rx="40" fill="#65a30d" filter="url(#shadow)"/>
+  <rect x="245" y="145" width="380" height="280" rx="32" fill="#bbf7d0"/>
+  <ellipse cx="400" cy="305" rx="128" ry="92" fill="#bae6fd" opacity="0.86"/>
+  <circle cx="510" cy="215" r="55" fill="#c084fc"/><circle cx="512" cy="216" r="25" fill="#7c3aed"/>
+  <g fill="#22c55e"><ellipse cx="305" cy="220" rx="38" ry="18" transform="rotate(-25 305 220)"/><ellipse cx="565" cy="330" rx="38" ry="18" transform="rotate(25 565 330)"/><ellipse cx="335" cy="385" rx="36" ry="16" transform="rotate(15 335 385)"/></g>
+  <g fill="#ef4444"><ellipse cx="292" cy="310" rx="28" ry="12" transform="rotate(65 292 310)"/><ellipse cx="590" cy="235" rx="28" ry="12" transform="rotate(-40 590 235)"/></g>
+  <path d="M470 160 q55 15 45 60" stroke="#60a5fa" stroke-width="12" fill="none"/>
+  <path d="M300 410 q45 -38 90 -5" stroke="#f97316" stroke-width="10" fill="none"/>
+  <g fill="#166534"><circle cx="350" cy="185" r="5"/><circle cx="580" cy="390" r="5"/><circle cx="275" cy="255" r="5"/></g>
+
+  <text x="95" y="150" font-size="15" fill="#0f172a" font-family="Arial">cell membrane</text><text x="92" y="450" font-size="15" fill="#0f172a" font-family="Arial">cell wall</text><text x="116" y="282" font-size="15" fill="#0f172a" font-family="Arial">chloroplast</text><text x="132" y="335" font-size="15" fill="#0f172a" font-family="Arial">Golgi apparatus</text><text x="330" y="305" font-size="15" fill="#0f172a" font-family="Arial">vacuole</text><text x="535" y="212" font-size="15" fill="#0f172a" font-family="Arial">nucleus</text><text x="606" y="337" font-size="15" fill="#0f172a" font-family="Arial">mitochondrion</text><text x="590" y="170" font-size="15" fill="#0f172a" font-family="Arial">endoplasmic reticulum</text><text x="655" y="390" font-size="15" fill="#0f172a" font-family="Arial">ribosomes</text><text x="585" y="285" font-size="15" fill="#0f172a" font-family="Arial">cytoplasm</text>
+</svg>
